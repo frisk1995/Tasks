@@ -15,6 +15,4 @@
 - sshは基本的にポートを開かない
 
 ### 設計案
-- owncloud使ってみる？
-- owncloudのデータディレクトリをsambaで共有する？
-
+- google Driveをマウントする
